@@ -1,5 +1,7 @@
 # SMART Tutorial
 
+*This project has been archived, any code / packages are likely obsolete and should not be reused.*
+
 Run the tutorial here:
 https://cerner.github.io/smart-on-fhir-tutorial
 
